@@ -2,7 +2,7 @@ TTTStaff
 ========
 
  Slaying
- ========
+========
 * RDMing a Detective: 2 Rounds
 * RDMing a traitor: 2 Rounds
 * RDMing an innocent: 1 Round
