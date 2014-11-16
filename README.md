@@ -7,6 +7,7 @@ TTTStaff
 * RDMing a traitor: 2 Rounds
 * RDMing an innocent: 1 Round
 * Traitor RDMing a T: 2 Rounds (If killed by C4 then do not slay them)
+* You can slay the user for propkilling if not a T
 
 Banning
 ========
@@ -20,5 +21,4 @@ Gagging/Muting
 ==============
 * Mic Spaming: Depends on how severe. Usually one round
 * Chat Spamming: Depends on how severe. Usually one round
-* 
 
